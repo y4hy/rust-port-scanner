@@ -44,7 +44,3 @@ cargo run --release -- -t 192.168.1.10 -p 1-1024
 
 - This tool performs TCP connect scanning and requires no special privileges.
 - Network scanning can trigger alerts. Only scan hosts you own or have explicit permission to test.
-
-## License
-
-Add a LICENSE file (e.g., MIT or Apache-2.0) to clarify usage terms.
